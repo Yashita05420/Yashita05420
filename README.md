@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Yashita Bisht
 
-<!--
-**Yashita05420/Yashita05420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring SOC Analyst | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎯 Goal: Become SOC Analyst | Cybersecurity Analyst 
+* 📡 Learning: Wireshark, Networking, Linux , SEIM Tool - Splunk
+* 🔍 Interested in: Packet Analysis & log analysis 
+
+##  Skills
+
+* Wireshark
+* TCP/IP, DNS, HTTP
+* Kali Linux
+* Python
+* Splunk
+* Nmap 
+
+## 📂 Projects
+
+* 🔥 Suspicious Traffic Analysis (Wireshark)
+* 🌐 DNS Packet Analysis
+* 🚧 AI Phishing Detection (ongoing)
+
+## 📫 Connect with me
+
+* LinkedIn: 
