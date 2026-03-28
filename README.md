@@ -25,6 +25,5 @@
 
 ## 📫 Connect with me
 
-* LinkedIn: www.linkedin.com/in/
-yashita-bisht-10793b32b
+* LinkedIn: www.linkedin.com/in/yashita-bisht-10793b32b
 
