@@ -19,7 +19,7 @@
 
 ## 📂 Projects
 
-* 🔥 Suspicious Traffic Analysis (Wireshark)
+* 🔥 HTTP traffic analysis (Wireshark)
 * 🌐 DNS Packet Analysis
 * 🚧 AI Phishing Detection (ongoing)
 
