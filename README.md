@@ -1,14 +1,15 @@
-# Hi 👋, I'm Yashita Bisht
+# Hi , I'm Yashita Bisht
 
-🔐 Aspiring SOC Analyst | Cybersecurity Enthusiast
+ Aspiring SOC Analyst | Cybersecurity Enthusiast | SOC Analyst | Junior Security Analyst
 
-## About Me
+# About Me
 
-* 🎯 Goal: Become SOC Analyst | Cybersecurity Analyst 
-* 📡 Learning: Wireshark, Networking, Linux , SEIM Tool - Splunk
-* 🔍 Interested in: Packet Analysis & log analysis 
+*  Goal: Become SOC Analyst | Cybersecurity Analyst 
+*  
+   Wireshark, Networking, Linux , SEIM Tool - Splunk , nmap 
+*  Interested in: Packet Analysis & log analysis 
 
-##  Skills
+#  Skills
 
 * Wireshark
 * TCP/IP, DNS, HTTP
@@ -17,13 +18,14 @@
 * Splunk
 * Nmap 
 
-## 📂 Projects
+# Projects
 
-* 🔥 HTTP traffic analysis (Wireshark)
-* 🌐 DNS Packet Analysis
-* 🚧 AI Phishing Detection (ongoing)
+*  HTTP traffic analysis (Wireshark)
+*  SSH log monitoring using Splunk
+*  Web Traffic analysis using Splunk
+*  AI Phishing Detection (ongoing)
 
-## 📫 Connect with me
+# Connect with me
 
 * LinkedIn: www.linkedin.com/in/yashita-bisht-10793b32b
 
