@@ -5,8 +5,7 @@
 # About Me
 
 *  Goal: Become SOC Analyst | Cybersecurity Analyst 
-*  
-   Wireshark, Networking, Linux , SEIM Tool - Splunk , nmap 
+*  Wireshark, Networking, Linux , SEIM Tool - Splunk , nmap 
 *  Interested in: Packet Analysis & log analysis 
 
 #  Skills
@@ -23,6 +22,7 @@
 *  HTTP traffic analysis (Wireshark)
 *  SSH log monitoring using Splunk
 *  Web Traffic analysis using Splunk
+*  Network Reconnaissance and Vulnerability Assessment
 *  AI Phishing Detection (ongoing)
 
 # Connect with me
